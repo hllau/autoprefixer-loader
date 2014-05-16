@@ -1,0 +1,17 @@
+{
+  "name": "autoprefixer-loader",
+  "version": "0.0.1",
+  "author": {
+    "name": "Hing-Lung Lau @lung220"
+  },
+  "description": "autoprefixer loader module for webpack",
+  "dependencies": {
+    "autoprefixer": "~1.1.20140512"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
